@@ -10,4 +10,4 @@ To ensure the authenticity and integrity of the downloaded binary:
     ```bash
    gpg --verify hive-jdbc-3.1.3-standalone.jar.asc hive-jdbc-3.1.3-standalone.jar
 
-A successful verification confirms the file was signed by Iomete and has not been tampered with.
+A successful verification confirms the file was signed by IOMETE and has not been tampered with.
